@@ -20,3 +20,4 @@ A pesar de una precisión general aceptable, el análisis del Recall revela un s
 Este sesgo no es necesariamente un fallo del código, sino un reflejo de la realidad astronómica. Muchas galaxias espirales, cuando están muy lejos o tienen poca resolución, pierden la visibilidad de sus brazos y se ven visualmente idénticas a una elíptica.
 
 Aunque todavía hay espacio para mejorar la distinción de estructuras finas (quizás con mayor resolución o balanceo de datos), el modelo actual ya es capaz de procesar miles de galaxias en segundos con una fiabilidad comparable a la clasificación humana inicial.
+<img width="1909" height="881" alt="image" src="https://github.com/user-attachments/assets/14974ff4-8c93-4f18-b89e-cf1d87036076" />
