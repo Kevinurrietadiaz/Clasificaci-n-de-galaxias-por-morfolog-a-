@@ -21,3 +21,4 @@ Este sesgo no es necesariamente un fallo del código, sino un reflejo de la real
 
 Aunque todavía hay espacio para mejorar la distinción de estructuras finas (quizás con mayor resolución o balanceo de datos), el modelo actual ya es capaz de procesar miles de galaxias en segundos con una fiabilidad comparable a la clasificación humana inicial.
 <img width="1909" height="881" alt="image" src="https://github.com/user-attachments/assets/14974ff4-8c93-4f18-b89e-cf1d87036076" />
+En las pruebas visuales, se observa que los errores ocurren principalmente en galaxias de baja luminosidad donde la estructura de los brazos espirales se pierde en el ruido de fondo
